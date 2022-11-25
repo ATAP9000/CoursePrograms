@@ -1,0 +1,15 @@
+C:\Users\atarazona.BNC\source\repos\CSharpCourse\IOPractice\bin\Debug\net6.0\IOPractice.exe
+C:\Users\atarazona.BNC\source\repos\CSharpCourse\IOPractice\bin\Debug\net6.0\IOPractice.deps.json
+C:\Users\atarazona.BNC\source\repos\CSharpCourse\IOPractice\bin\Debug\net6.0\IOPractice.runtimeconfig.json
+C:\Users\atarazona.BNC\source\repos\CSharpCourse\IOPractice\bin\Debug\net6.0\IOPractice.dll
+C:\Users\atarazona.BNC\source\repos\CSharpCourse\IOPractice\bin\Debug\net6.0\IOPractice.pdb
+C:\Users\atarazona.BNC\source\repos\CSharpCourse\IOPractice\obj\Debug\net6.0\IOPractice.csproj.AssemblyReference.cache
+C:\Users\atarazona.BNC\source\repos\CSharpCourse\IOPractice\obj\Debug\net6.0\IOPractice.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\atarazona.BNC\source\repos\CSharpCourse\IOPractice\obj\Debug\net6.0\IOPractice.AssemblyInfoInputs.cache
+C:\Users\atarazona.BNC\source\repos\CSharpCourse\IOPractice\obj\Debug\net6.0\IOPractice.AssemblyInfo.cs
+C:\Users\atarazona.BNC\source\repos\CSharpCourse\IOPractice\obj\Debug\net6.0\IOPractice.csproj.CoreCompileInputs.cache
+C:\Users\atarazona.BNC\source\repos\CSharpCourse\IOPractice\obj\Debug\net6.0\IOPractice.dll
+C:\Users\atarazona.BNC\source\repos\CSharpCourse\IOPractice\obj\Debug\net6.0\refint\IOPractice.dll
+C:\Users\atarazona.BNC\source\repos\CSharpCourse\IOPractice\obj\Debug\net6.0\IOPractice.pdb
+C:\Users\atarazona.BNC\source\repos\CSharpCourse\IOPractice\obj\Debug\net6.0\IOPractice.genruntimeconfig.cache
+C:\Users\atarazona.BNC\source\repos\CSharpCourse\IOPractice\obj\Debug\net6.0\ref\IOPractice.dll
