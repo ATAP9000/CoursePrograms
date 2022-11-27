@@ -1,0 +1,12 @@
+C:\Users\a\source\repos\Lab8\bin\Debug\Lab8.exe.config
+C:\Users\a\source\repos\Lab8\bin\Debug\Lab8.exe
+C:\Users\a\source\repos\Lab8\bin\Debug\Lab8.pdb
+C:\Users\a\source\repos\Lab8\bin\Debug\EntityFramework.dll
+C:\Users\a\source\repos\Lab8\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\a\source\repos\Lab8\bin\Debug\EntityFramework.xml
+C:\Users\a\source\repos\Lab8\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\a\source\repos\Lab8\obj\Debug\Lab8.csproj.AssemblyReference.cache
+C:\Users\a\source\repos\Lab8\obj\Debug\Lab8.csproj.CoreCompileInputs.cache
+C:\Users\a\source\repos\Lab8\obj\Debug\Lab8.csproj.CopyComplete
+C:\Users\a\source\repos\Lab8\obj\Debug\Lab8.exe
+C:\Users\a\source\repos\Lab8\obj\Debug\Lab8.pdb
