@@ -1,0 +1,10 @@
+C:\Users\atarazona.BNC\source\repos\CSharpCourse\CodeDOMPractice\CodeDOM\bin\Debug\CodeDOM.exe.config
+C:\Users\atarazona.BNC\source\repos\CSharpCourse\CodeDOMPractice\CodeDOM\bin\Debug\CodeDOM.exe
+C:\Users\atarazona.BNC\source\repos\CSharpCourse\CodeDOMPractice\CodeDOM\bin\Debug\CodeDOM.pdb
+C:\Users\atarazona.BNC\source\repos\CSharpCourse\CodeDOMPractice\CodeDOM\bin\Debug\ReflectionExamples.dll
+C:\Users\atarazona.BNC\source\repos\CSharpCourse\CodeDOMPractice\CodeDOM\bin\Debug\ReflectionExamples.pdb
+C:\Users\atarazona.BNC\source\repos\CSharpCourse\CodeDOMPractice\CodeDOM\obj\Debug\CodeDOM.csproj.AssemblyReference.cache
+C:\Users\atarazona.BNC\source\repos\CSharpCourse\CodeDOMPractice\CodeDOM\obj\Debug\CodeDOM.csproj.CoreCompileInputs.cache
+C:\Users\atarazona.BNC\source\repos\CSharpCourse\CodeDOMPractice\CodeDOM\obj\Debug\CodeDOM.csproj.CopyComplete
+C:\Users\atarazona.BNC\source\repos\CSharpCourse\CodeDOMPractice\CodeDOM\obj\Debug\CodeDOM.exe
+C:\Users\atarazona.BNC\source\repos\CSharpCourse\CodeDOMPractice\CodeDOM\obj\Debug\CodeDOM.pdb

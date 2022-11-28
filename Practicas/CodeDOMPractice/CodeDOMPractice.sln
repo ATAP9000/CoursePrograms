@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.4.33103.184
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CodeDOM", "CodeDOM\CodeDOM.csproj", "{F216D4A1-6A9B-4FCD-A703-11ED6510F1F3}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ReflectionExamples", "ReflectionExamples\ReflectionExamples.csproj", "{4AADA2C6-6060-4F39-9375-0A94D42DCF94}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F216D4A1-6A9B-4FCD-A703-11ED6510F1F3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F216D4A1-6A9B-4FCD-A703-11ED6510F1F3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F216D4A1-6A9B-4FCD-A703-11ED6510F1F3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F216D4A1-6A9B-4FCD-A703-11ED6510F1F3}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4AADA2C6-6060-4F39-9375-0A94D42DCF94}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4AADA2C6-6060-4F39-9375-0A94D42DCF94}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4AADA2C6-6060-4F39-9375-0A94D42DCF94}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4AADA2C6-6060-4F39-9375-0A94D42DCF94}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {FF8C86B4-CB06-4294-B722-6D537587ADF6}
+	EndGlobalSection
+EndGlobal

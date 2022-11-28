@@ -1,0 +1,6 @@
+C:\Users\atarazona.BNC\source\repos\CSharpCourse\CodeDOMPractice\ReflectionExamples\bin\Debug\ReflectionExamples.dll
+C:\Users\atarazona.BNC\source\repos\CSharpCourse\CodeDOMPractice\ReflectionExamples\bin\Debug\ReflectionExamples.pdb
+C:\Users\atarazona.BNC\source\repos\CSharpCourse\CodeDOMPractice\ReflectionExamples\obj\Debug\ReflectionExamples.csproj.AssemblyReference.cache
+C:\Users\atarazona.BNC\source\repos\CSharpCourse\CodeDOMPractice\ReflectionExamples\obj\Debug\ReflectionExamples.csproj.CoreCompileInputs.cache
+C:\Users\atarazona.BNC\source\repos\CSharpCourse\CodeDOMPractice\ReflectionExamples\obj\Debug\ReflectionExamples.dll
+C:\Users\atarazona.BNC\source\repos\CSharpCourse\CodeDOMPractice\ReflectionExamples\obj\Debug\ReflectionExamples.pdb
