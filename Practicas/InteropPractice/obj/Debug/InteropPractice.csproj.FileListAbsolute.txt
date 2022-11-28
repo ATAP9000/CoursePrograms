@@ -1,0 +1,7 @@
+C:\Users\atarazona.BNC\source\repos\CSharpCourse\InteropPractice\bin\Debug\InteropPractice.exe.config
+C:\Users\atarazona.BNC\source\repos\CSharpCourse\InteropPractice\bin\Debug\InteropPractice.exe
+C:\Users\atarazona.BNC\source\repos\CSharpCourse\InteropPractice\bin\Debug\InteropPractice.pdb
+C:\Users\atarazona.BNC\source\repos\CSharpCourse\InteropPractice\obj\Debug\InteropPractice.csproj.AssemblyReference.cache
+C:\Users\atarazona.BNC\source\repos\CSharpCourse\InteropPractice\obj\Debug\InteropPractice.csproj.CoreCompileInputs.cache
+C:\Users\atarazona.BNC\source\repos\CSharpCourse\InteropPractice\obj\Debug\InteropPractice.exe
+C:\Users\atarazona.BNC\source\repos\CSharpCourse\InteropPractice\obj\Debug\InteropPractice.pdb
