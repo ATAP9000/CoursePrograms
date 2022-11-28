@@ -1,0 +1,6 @@
+C:\Users\atarazona.BNC\source\repos\CSharpCourse\Practicas\EncryptionPractice\CryptographyExample\bin\Debug\CryptographyExample.dll
+C:\Users\atarazona.BNC\source\repos\CSharpCourse\Practicas\EncryptionPractice\CryptographyExample\bin\Debug\CryptographyExample.pdb
+C:\Users\atarazona.BNC\source\repos\CSharpCourse\Practicas\EncryptionPractice\CryptographyExample\obj\Debug\CryptographyExample.csproj.AssemblyReference.cache
+C:\Users\atarazona.BNC\source\repos\CSharpCourse\Practicas\EncryptionPractice\CryptographyExample\obj\Debug\CryptographyExample.csproj.CoreCompileInputs.cache
+C:\Users\atarazona.BNC\source\repos\CSharpCourse\Practicas\EncryptionPractice\CryptographyExample\obj\Debug\CryptographyExample.dll
+C:\Users\atarazona.BNC\source\repos\CSharpCourse\Practicas\EncryptionPractice\CryptographyExample\obj\Debug\CryptographyExample.pdb

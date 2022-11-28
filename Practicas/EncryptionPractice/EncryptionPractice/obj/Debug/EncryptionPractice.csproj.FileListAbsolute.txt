@@ -1,0 +1,10 @@
+C:\Users\atarazona.BNC\source\repos\CSharpCourse\Practicas\EncryptionPractice\EncryptionPractice\bin\Debug\EncryptionPractice.exe.config
+C:\Users\atarazona.BNC\source\repos\CSharpCourse\Practicas\EncryptionPractice\EncryptionPractice\bin\Debug\EncryptionPractice.exe
+C:\Users\atarazona.BNC\source\repos\CSharpCourse\Practicas\EncryptionPractice\EncryptionPractice\bin\Debug\EncryptionPractice.pdb
+C:\Users\atarazona.BNC\source\repos\CSharpCourse\Practicas\EncryptionPractice\EncryptionPractice\bin\Debug\CryptographyExample.dll
+C:\Users\atarazona.BNC\source\repos\CSharpCourse\Practicas\EncryptionPractice\EncryptionPractice\bin\Debug\CryptographyExample.pdb
+C:\Users\atarazona.BNC\source\repos\CSharpCourse\Practicas\EncryptionPractice\EncryptionPractice\obj\Debug\EncryptionPractice.csproj.AssemblyReference.cache
+C:\Users\atarazona.BNC\source\repos\CSharpCourse\Practicas\EncryptionPractice\EncryptionPractice\obj\Debug\EncryptionPractice.csproj.CoreCompileInputs.cache
+C:\Users\atarazona.BNC\source\repos\CSharpCourse\Practicas\EncryptionPractice\EncryptionPractice\obj\Debug\EncryptionPractice.csproj.CopyComplete
+C:\Users\atarazona.BNC\source\repos\CSharpCourse\Practicas\EncryptionPractice\EncryptionPractice\obj\Debug\EncryptionPractice.exe
+C:\Users\atarazona.BNC\source\repos\CSharpCourse\Practicas\EncryptionPractice\EncryptionPractice\obj\Debug\EncryptionPractice.pdb
